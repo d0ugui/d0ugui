@@ -7,7 +7,6 @@ Sou um desenvolvedor web focado em front-end e apaixonado por games.
 * ⚡ Apaixonado por CSGO
 * 📫 Caso tenha interesse de me contatar, meu email é douglaspo_97@outlook.com
 
-![Twitter Follow](https://img.shields.io/twitter/follow/d0ugui_?style=social)
 
 
 
