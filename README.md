@@ -1,4 +1,4 @@
-### Olá amigo, meu nome é Douglas Oliveira! 👋
+### Olá, meu nome é Douglas Oliveira! 👋
 Sou um desenvolvedor web focado em front-end e apaixonado por games.
 
 
