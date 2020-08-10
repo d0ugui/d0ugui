@@ -1,6 +1,8 @@
 ### Olá, meu nome é Douglas Oliveira! 👋
 Sou um desenvolvedor web focado em front-end e apaixonado por games.
 
+[![Twitter Badge](https://img.shields.io/badge/-@d0ugui_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/d0ugui_)](https://twitter.com/d0ugui_) 
+
 
 * 🔭 Atualmente estou trabalhando em alguns projetos básicos para expô-los em meu portifólio.
 * 🌱 Estudando JavaScript e aprimorando minhas habilidades em HTML e CSS.
