@@ -4,7 +4,9 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://github.com/d0ugui) 
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-Blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglaspo_97@outlook.com)
 
-Eu sou o Douglas Oliveira, tenho 23 anos. SOu formado em Tecnologia em Análise e Desenvolvimento de Sistemas pela UNINOVE. Após 2 anos de indecisão, em 2021 decidi focar em minha carreira de desenvolvedor front-end, sendo assim, criei este perfil para expor meus projetos em um ambiente de cooperação e aprendizado. Além do front-end, gosto também das áreas de back-end e banco de dados. 
+<br>
+Eu sou o Douglas Oliveira, tenho 23 anos. Após 2 anos de indecisão, em 2021 decidi focar em minha carreira de desenvolvedor front-end, sendo assim, criei este perfil para expor meus projetos em um ambiente de cooperação e aprendizado. Além do front-end, gosto também das áreas de back-end e banco de dados. 
+<br>
 
 ## ⚡ Technologies
 
