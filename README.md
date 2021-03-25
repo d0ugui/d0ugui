@@ -5,12 +5,9 @@
 [![Contact](https://img.shields.io/badge/CONTACT-GMAIL-Blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglaspo_97@outlook.com)
 
 ## ⚡ About me
-<br>
 Meu nome é Douglas Oliveira, tenho 23 anos, sou formando em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uninove (2018). Após alguns anos de procastinação, resolvi em 2021 voltar a estudar de maneira informal e criei o este perfil para expor alguns dos meus projetos. Minha área de estudo atual é desenvolvimento web focado no front-end.
-<br>
 
 ## ⚡ Technologies
-
 - Front-end development: **HTML, CSS, JavaScript**
 - Backend developmen: **Node**
 - Database Management: **SQL/Oracle**
