@@ -1,9 +1,3 @@
-<h2> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
-
-
-[![Linkedin](https://img.shields.io/badge/SUPPORT%20AT-LINKEDIN-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/d0ugui/) 
-[![Contact](https://img.shields.io/badge/CONTACT-GMAIL-Blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglaspo_97@outlook.com)
-
 ## ⚡ About me
 Meu nome é Douglas Oliveira, tenho 23 anos, sou formando em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uninove (2018). Após alguns anos de procastinação, resolvi em 2021 voltar a estudar de maneira informal e criei o este perfil para expor alguns dos meus projetos. Minha área de estudo atual é desenvolvimento web focado no front-end.
 
@@ -12,6 +6,11 @@ Meu nome é Douglas Oliveira, tenho 23 anos, sou formando em Tecnologia em Anál
 - Backend developmen: **Node**
 - Database Management: **SQL/Oracle**
 - Tools: **Visual Studio Code, GitHub, Figma**
+- 
+##  Contact Me
+- <a href="https://www.linkedin.com/in/d0ugui/">Linkedin</a>
+- <a href="mailto:douglaspo_97@outlook.com">E-mail</a>
+- <a href="https://www.instagram.com/d0ugui_/">Instagram Pessoal</a>
 
 <br>
 <p align="center">
