@@ -6,7 +6,7 @@ Meu nome é Douglas Oliveira, tenho 23 anos, sou formando em Tecnologia em Anál
 - Backend developmen: **Node**
 - Database Management: **SQL/Oracle**
 - Tools: **Visual Studio Code, GitHub, Figma**
-- 
+
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/d0ugui/">Linkedin</a>
 - <a href="mailto:douglaspo_97@outlook.com">E-mail</a>
