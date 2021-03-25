@@ -2,8 +2,8 @@
 Meu nome é Douglas Oliveira, tenho 23 anos, sou formando em Tecnologia em Análise e Desenvolvimento de Sistemas pela Uninove (2018). Após alguns anos de procastinação, resolvi em 2021 voltar a estudar de maneira informal e criei o este perfil para expor alguns dos meus projetos. Minha área de estudo atual é desenvolvimento web focado no front-end.
 
 ## ⚡ Technologies
-- Front-end development: **HTML, CSS, JavaScript**
-- Backend developmen: **Node**
+- Front-end: **HTML, CSS, JavaScript**
+- Backend: **Node**
 - Database Management: **SQL/Oracle**
 - Tools: **Visual Studio Code, GitHub, Figma**
 
