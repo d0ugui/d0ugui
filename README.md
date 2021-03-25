@@ -10,7 +10,7 @@ Meu nome é Douglas Oliveira, tenho 23 anos, sou formando em Tecnologia em Anál
 ##  Contact Me
 - <a href="https://www.linkedin.com/in/d0ugui/">Linkedin</a>
 - <a href="mailto:douglaspo_97@outlook.com">E-mail</a>
-- <a href="https://www.instagram.com/d0ugui_/">Instagram Pessoal</a>
+- <a href="https://www.instagram.com/d0ugui_/">Instagram</a>
 
 <br>
 <p align="center">
