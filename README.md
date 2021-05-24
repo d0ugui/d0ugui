@@ -1,12 +1,12 @@
 ## 👋🏽 Hello!
-Hi, I'm Douglas Oliveira, a Front-end Developer from Brazil. I’m currently working on improving my techskill. Ask me about anything, I am happy to help.
+Hi, I'm Douglas Oliveira, a Front-end Developer from Brazil. I’m currently working on improving my techskill. 
 
 ## ⚡ About me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💻  &nbsp; Currently Learning React
 - 💬 &nbsp; Ask me about anything, I am happy to help;
-- 🎮 I love Counter-Strike: Global Offensive
+- 🎮 &nbsp; I love Counter-Strike: Global Offensive
 
 ### Languages
 
