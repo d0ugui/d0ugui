@@ -1,19 +1,22 @@
-## 👋🏽 Hello!
-Hi, I'm Douglas Oliveira, a Front-end Developer from Brazil. I’m currently working on improving my techskill. 
+# <a href="https://www.linkedin.com/in/d0ugui/">Douglas Oliveira</a>
 
-## ⚡ About me
+## Sobre
+Tenho 23 anos, sou formando em Tecnologia em Análise e Desenvolvimento de Sistemas pela UNINOVE. Em 2016 eu servi o Exército Brasileiro, e além do que muitos pensam, minha atuação no quartel não se resumia apenas a esforços fisícos. Eu fui desginado para a sessão de Logística de T.I, onde era o responsável pela manutenção de sites da unidade (intranet/internet), tendo assim descoberto minha área de atuação, desenvolvimento web. 
+<br>
+Atualmente estou focado na área dw desenvolvimento front-end, codando e estudando. Todavia, já tive contato com Bando de Dados e tenho conhecimento em SQL.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💻  &nbsp; Currently Learning React
-- 💬 &nbsp; Ask me about anything, I am happy to help;
-- 🎮 &nbsp; I love Counter-Strike: Global Offensive
+## Tecnologias
+- Front-end: HTML/CSS, JS e ReactJS
+- SQL(PL/SQL)
 
 ### Languages
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 
 ###  Contact Me
