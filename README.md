@@ -3,17 +3,12 @@
 ## Sobre
 Tenho 23 anos, sou formando em Tecnologia em Análise e Desenvolvimento de Sistemas pela UNINOVE. Em 2016 eu servi o Exército Brasileiro, e além do que muitos pensam, minha atuação no quartel não se resumia apenas a esforços fisícos. Eu fui desginado para a sessão de Logística de T.I, onde era o responsável pela manutenção dos sites da unidade (intranet/internet), tendo assim descoberto minha área de atuação. Atualmente estou focado na área de desenvolvimento front-end, codando e estudando. Todavia, já tive contato com banco de dados e tenho familiaridade com SQL.
 
-## Tecnologias
-- **Front-end:** HTML/CSS, JS e ReactJS
-- **Back-end:** Node
-- **Banco de Dados:** SQL(PL/SQL)
-
 ### Languages
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
