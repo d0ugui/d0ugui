@@ -6,8 +6,9 @@ Tenho 23 anos, sou formando em Tecnologia em Análise e Desenvolvimento de Siste
 ## Tecnologias
  **Front-end:** HTML/CSS, JS, ReactJS e Typescript<br>
  **Back-end:** NodeJS <br>
+ **Testes Unitários:** Jest <br>
  **Banco de Dados:** SQL(PL/SQL) <br>
- **Testes unitários:** Jest <br>
+ 
 
 ### Contact Me
    [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/d0ugui/) &nbsp;&nbsp;
