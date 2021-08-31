@@ -4,9 +4,10 @@
 Tenho 23 anos, sou formando em Tecnologia em Análise e Desenvolvimento de Sistemas pela UNINOVE. Em 2016 eu servi o Exército Brasileiro, e além do que muitos pensam, minha atuação no quartel não se resumia apenas a esforços fisícos. Eu fui desginado para a sessão de Logística de T.I, onde era o responsável pela manutenção dos sites da unidade (intranet/internet), tendo assim descoberto minha área de atuação. Atualmente estou focado na área de desenvolvimento front-end, codando e estudando. Todavia, já tive contato com banco de dados e tenho familiaridade com SQL.
 
 ## Tecnologias
- **Front-end:** HTML/CSS, JS e ReactJS <br>
+ **Front-end:** HTML/CSS, JS, ReactJS e Typescript<br>
  **Back-end:** NodeJS <br>
  **Banco de Dados:** SQL(PL/SQL) <br>
+ **Testes unitários:** Jest <br>
 
 ### Contact Me
    [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/d0ugui/) &nbsp;&nbsp;
