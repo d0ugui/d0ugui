@@ -12,12 +12,12 @@
   <img align="center" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
-### Contact Me
+## Contact Me
    [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/d0ugui/) &nbsp;&nbsp;
    [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:douglaspo_97@outlook.com) &nbsp;&nbsp;
    [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://twitter.com/d0ugui_)
 
-### 
+## 
  <div align="center" style="display: inline_block">
   <a href="https://github.com/d0ugui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d0ugui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
