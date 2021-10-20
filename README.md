@@ -19,8 +19,8 @@
   [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:douglaspo_97@outlook.com) &nbsp;&nbsp;
   [![twitter](https://user-images.githubusercontent.com/25087769/87172407-de83e180-c2dc-11ea-9479-a894758266c3.png)](https://twitter.com/d0ugui_)
 
-###
- <div>
+### 
+ <div align="center">
   <a href="https://github.com/d0ugui">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=d0ugui&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d0ugui&layout=compact&langs_count=7&theme=react"/>
