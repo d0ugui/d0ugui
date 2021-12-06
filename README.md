@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/d0ugui/">Douglas Oliveira</a>
 
 ## Sobre
-23 anos, formando em Tecnologia em Análise e Desenvolvimento de Sistemas pela UNINOVE. Em 2016 eu servi o Exército Brasileiro, e além do que muitos pensam, minha atuação no quartel não se resumia apenas a esforços fisícos. Eu fui desginado para a sessão de Logística de T.I, onde era o responsável pela manutenção dos sites da unidade (intranet/internet), tendo assim encontrado minha área de atuação. 
+Formado em Análise e Desenvolvimento de Sistemas, com foco na stack javascript (React, Node e React Native). Tenho conhecimento em algumas ferramentas, são elas: React.js para desenvolvimento de aplicações web, styled-components, bootstrap e sass para criação de stylesheets. Tenho me aventurado no mundo do Node e React Native, mas o foco dos meus estudos no momento é o React.js e seu ecossistema. O versionamento de código com Git é um ponto importante, tenho conhecimento e prática. Sou entusiasta da área de banco de dados e possuo familiaridade com SQL.
 
 ## Tecnologias
  <div style="display: inline_block">
