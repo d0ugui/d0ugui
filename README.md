@@ -1,7 +1,7 @@
 # <a href="https://www.linkedin.com/in/d0ugui/">Douglas Oliveira</a>
 
 ## Sobre
-Formado em Análise e Desenvolvimento de Sistemas, com foco na stack javascript (React, Node e React Native). Tenho conhecimento em algumas ferramentas, são elas: React.js para desenvolvimento de aplicações web, Styled-components, Bootstrap e Sass para criação de stylesheets. Tenho me aventurado no mundo do Node e React Native, mas o foco dos meus estudos no momento é o React.js e seu ecossistema. O versionamento de código com Git é um ponto importante, tenho conhecimento e prática. Sou entusiasta da área de banco de dados e possuo familiaridade com SQL.
+Formado em Análise e Desenvolvimento de Sistemas, com foco na stack javascript (React, Node e React Native). Tenho conhecimento em algumas ferramentas, são elas: React.js para desenvolvimento de aplicações web, Styled-components, Bootstrap e Sass para criação de stylesheets, JSON Server e Firebase utilizados no back-end para prover mockup de dados e serviços como database e autenticação. Tenho me aventurado no mundo do Node e React Native, mas o foco dos meus estudos no momento é o React.js e seu ecossistema. O versionamento de código com Git é um ponto importante, tenho conhecimento e prática. Sou entusiasta da área de banco de dados e possuo conhecimento em SQL.
 
 ## Tecnologias
  <div style="display: inline_block">
