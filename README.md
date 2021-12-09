@@ -10,6 +10,7 @@ Formado em Análise e Desenvolvimento de Sistemas, com foco na stack javascript 
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt="firebase" src="https://img.shields.io/badge/firebase-333?style=for-the-badge&logo=firebase&logoColor=FFCB2D" />
 </div>
 
 ## Contact Me
