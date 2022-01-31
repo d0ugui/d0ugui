@@ -1,15 +1,13 @@
 ## Sobre mim
-Desenvolvedor Front-end na Stack Javascript, React.js, Node e React Native. Meu foco atualmente é consolidar meus conhecimentos em React.js, mas sempre que posso estudo Node e React Native afim de obter uma visão geral do processo de desenvolvimento de uma aplicação. Estou aberto a novas oportunidades que venham pra somar na minha trajetória profissional. Nos vemos em breve!
+Desenvolvedor Front-end na stack JavaScript com React.js. Tenho conhecimento básico em Node.js e React Native, são duas áreas que pretendo estudar futuramente para me tornar um Desenvolvedor FullStack. No momento estou estudando Next.js e TypeScript, afim de obter uma base sólida no front-end. Sou um grande entusiasta da área de UI/UX, pois não gosto de layout feio, haha. No mais, tenho prática com Git, SQL e Figma.
 
 ## Tecnologias
  <div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="firebase" src="https://img.shields.io/badge/firebase-333?style=for-the-badge&logo=firebase&logoColor=FFCB2D" />
- <img align="center" alt="docker" src="https://img.shields.io/badge/docker-DCDCDC?style=for-the-badge&logo=docker&logoColor=129fdb" />
+  <img align="center" alt="docker" src="https://img.shields.io/badge/docker-DCDCDC?style=for-the-badge&logo=docker&logoColor=129fdb" />
 </div>
 
 ## Contato
