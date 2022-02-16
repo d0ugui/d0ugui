@@ -14,3 +14,13 @@ Desenvolvedor Front-end na stack JavaScript com React.js. Tenho conhecimento bá
 [![email](https://img.shields.io/badge/email-333?style=for-the-badge&logo=mail&logoColor=white)](mailto:douglaspo_97@outlook.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d0ugui/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/d0ugui_)
+
+## 
+
+<br/>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=d0ugui&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=d0ugui&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
