@@ -19,8 +19,8 @@
  <b>Git</b>
 </p>
 
-## Contato
-[![email](https://img.shields.io/badge/email-333?style=for-the-badge&logo=mail&logoColor=white)](mailto:douglaspo_97@outlook.com)
+## Contact
+[![mail](https://img.shields.io/badge/mail-333?style=for-the-badge&logo=mail&logoColor=white)](mailto:douglaspo_97@outlook.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/d0ugui/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/d0ugui_)
 
