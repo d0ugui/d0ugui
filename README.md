@@ -1,11 +1,13 @@
 ## About
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-<p align="left">
- Hello, I'm Douglas Oliveira, 24y, Front-end Developer working with JavaScript. Actually I learning GraphQL and NextJS. I have some experiencie in Back-end with Node.js, but my focus in the moment is improve my hard skills in front-end. 
-</p>
+<div>
+ 
+ <p align="left">
+  Hello, I'm Douglas Oliveira, 24y, Front-end Developer working with JavaScript. Actually I learning GraphQL and NextJS. I have some experiencie in Back-end with Node.js, but my focus in the moment is improve my hard skills in front-end. 
+ </p>
+</div>
  
 
-## 💻 Technologies
+## Technologies
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,docker,git,figma)](https://skillicons.dev)
 
 ## Contact
