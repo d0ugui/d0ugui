@@ -8,7 +8,7 @@
  
 
 ## Technologies
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,docker,git,figma)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,graphql,nodejs,docker,git,figma)](https://skillicons.dev)
 
 ## Contact
 [![mail](https://img.shields.io/badge/mail-333?style=for-the-badge&logo=mail&logoColor=white)](mailto:douglaspo_97@outlook.com)
