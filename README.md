@@ -1,14 +1,15 @@
-## About
+# Douglas Oliveira
+
 <div>
  
  <p align="left">
-  Hello, I'm Douglas Oliveira, 24y, Front-end Developer working with JavaScript. Actually I learning GraphQL and NextJS. I have some experiencie in Back-end with Node.js, but my focus in the moment is improve my hard skills in front-end. 
+  I'm a Front-end Developer working with JavaScript. Actually I learning GraphQL and Next.js. I have some experiencie in Back-end with Node.js, but my focus in the moment is improve my hard skills in front-end. 
  </p>
 </div>
  
 
 ## Technologies
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,graphql,nodejs,docker,git,figma)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,graphql,nodejs,docker,git)](https://skillicons.dev)
 
 ## Contact
 [![mail](https://img.shields.io/badge/mail-333?style=for-the-badge&logo=mail&logoColor=white)](mailto:douglaspo_97@outlook.com)
