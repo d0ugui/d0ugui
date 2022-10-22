@@ -3,7 +3,7 @@
 <div>
  
  <p align="left">
-  My name is Douglas Oliveira, and I´m from Brazil. I've been working as Front-end Developer since 2021. Actually I work as Software Developer at [https://www.linkedin.com/school/escolamais/](Escola Mais) and studying JavaScript Ecosystem. I have some experiencie in Back-end with Node.js, but my focus in the moment is improve my hard skills in front-end. 
+  My name is Douglas Oliveira, and I´m from Brazil. I've been working as Front-end Developer since 2021. Actually I work as Software Developer at Escola Mais and studying JavaScript Ecosystem. I have some experiencie in Back-end with Node.js, but my focus in the moment is improve my hard skills in front-end. 
  </p>
 </div>
  
