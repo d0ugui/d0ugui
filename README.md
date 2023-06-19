@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/d0ugui" target="_blank"><img align="center" src="https://i.ibb.co/qrypTQ7/cover.jpg"/><a/>
+<a href="https://linkedin.com/in/d0ugui" target="_blank"><img align="center" src="https://i.ibb.co/S3sBFC5/douglas-github.png"/><a/>
 
 <p align="center"> 
   <a href="https://instagram.com/dougs.po"><img align="center" src="https://img.shields.io/badge/dougs.po-05122A?style=flat&logo=instagram" alt="instagram"/></a>
