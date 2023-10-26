@@ -1,5 +1,5 @@
 <a href="https://linkedin.com/in/d0ugui" target="_blank">
-  <img align="center" src="https://i.ibb.co/S3sBFC5/douglas-github.png" alt="Douglas Oliveira" width="100%"/>
+  <img align="center" src="https://i.imgur.com/5hvz1L3.png" alt="Douglas Oliveira" width="100%"/>
 <a/>
 </br>
 
