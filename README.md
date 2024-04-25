@@ -1,7 +1,7 @@
 # Douglas Oliveira
 
 [![Twitter Badge](https://img.shields.io/badge/-@d0ugui_-0093E9?style=flat-square&labelColor=0093E9&logo=twitter&logoColor=white&link=https://twitter.com/d0ugui_)](https://twitter.com/d0ugui_) 
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Oliveira-0093E9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/d0ugui/)](https://www.linkedin.com/in/d0ugui/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Oliveira-0093E9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglaspo/)](https://www.linkedin.com/in/douglaspo/) 
 
 I'm a passionate front-end developer based in São Paulo, Brazil. With 3 years of experience, I thrive on turning creative ideas into interactive and user-friendly web experiences using JavaScript/TypeScript as my main language. 
 
