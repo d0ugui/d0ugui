@@ -1,9 +1,8 @@
-# Douglas Oliveira
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin%20-228BE6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglaspo/)](https://www.linkedin.com/in/douglaspo/)
+[![Discord Badge](https://img.shields.io/badge/-Discord%20-228BE6?style=flat-square&logo=discord&logoColor=white&link=https://discord.com/users/393537988031938560)](https://discord.com/users/393537988031938560)
+<br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Douglas%20Oliveira-0093E9?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglaspo/)](https://www.linkedin.com/in/douglaspo/) 
-
-Douglas Oliveira, 26y, São Paulo - SP, desenvolvedor com 3 anos de experiência de mercado, formado em Análise e Desenvolvimento de Sistemas, certificado pela AWS em Cloud Computing, com inglês de nível avançado. O JavaScript e TypeScript são minhas ferramentas principais de trabalho, atuando com tecnologias como React.js, Node.js e React Native.
-
-
-
-
+- Software Engineer, @[Tecnorise](https://tecnorise.com/)
+- I'm working with `JavaScript`, `TypeScript`, `React.js`, `Redux`, `GraphQL`, `MUI` ...
+- Currently learning Swift, data structures and algorithms
+- Contact me: [email](mailto:douglaspo_97@outlook.com)
